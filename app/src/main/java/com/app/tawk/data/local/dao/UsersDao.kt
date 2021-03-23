@@ -55,5 +55,4 @@ interface UsersDao {
      */
     @Update
     fun updateUser(user:User)
-
 }
