@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Tawk</string>
+    <string name="text_no_connectivity">No Connection</string>
+    <string name="text_connectivity">Back Online</string>
+    <string name="text_post_header"> User Header</string>
+    <string name="search">Search</string>
+    <string name="notes">Notes:</string>
+    <string name="enter_text_here">Enter text here!</string>
+    <string name="save">Save</string>
+    <string name="please_enter_valid_license_key">Please enter valid license key.</string>
+    <string name="followers">Followers: %1$s</string>
+    <string name="followings">Followings: %1$s</string>
+    <string name="name">Name: %1$s</string>
+    <string name="company_name">Company: %1$s</string>
+    <string name="blog">Blog: %1$s</string>
+    <string name="license_key_expire_alert_message">Your License Key will expire on %1$s. Please renew it for continue use of Typhon Services.</string>
+    <string name="please_enter_note">Please enter note.</string>
+</resources>
